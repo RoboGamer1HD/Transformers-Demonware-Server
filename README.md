@@ -18,4 +18,4 @@ Games of interest:
 
 Future Idea: Console support via DNS change settings?
 
-Project is completely non-profit.  A Project to the fans from fans.
+Project is completely non-profit/non-donation.  A Project to the fans from fans.
