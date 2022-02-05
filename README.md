@@ -1,2 +1,21 @@
-# Transformers-ReEnergized-Demonware-Server-Project
-2020 a number of games were shut down by Activision | Demonware.  Namely the Transformers games.  This project is a Server Revival project for the Transformers Games by High Moon Studios.  All of which were designed almost exactly the same.  A massive community of Transformers fans would love to have these games back and our goal is to do just that.  Bring back the Multiplayer back online.  This project serves as a hand reaching out to skilled individuals that are interested in helping with this project.  If you are interested, don't hesitate to reach out and join the project.  Contact us through discord etc...
+# Transformers: ReEnergized Demonware Server Project
+2020 a number of games were shut down by Activision | Demonware Services.  Namely the Transformers games.  This project is a Server Revival project for the Transformers Games by High Moon Studios.  A project for the fans.  
+
+Join and contact an administrator or myself
+Transformers ReEnergized Server Project: https://discord.gg/maJna7nKR3
+
+Transformers Games are using Peer-to-Peer Connectivity
+Currently own Physical Server and Physical Cisco Switch for Project
+Own web domain, SSL, DNS, etc...
+Demonware uses Stun Servers in order to Authenticate, check, distribute player data such as profile and stats and control matchmaking
+Looking to establish 2 teams: Networking Team, coding team/modding team
+
+Games of interest:
+Transformers War for Cybertron
+Transformers Fall of Cybertron
+Transformers Revenge of the Fallen
+Transformers Rise of the Dark Spark (-log support)
+
+Future Idea: Console support via DNS change settings?
+
+Project is completely non-profit.  A Project to the fans from fans.
