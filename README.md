@@ -11,10 +11,10 @@ Transformers ReEnergized Server Project: https://discord.gg/maJna7nKR3
 - Looking to establish 2 teams: Networking Team, coding team/modding team
 
 Games of interest:
-Transformers War for Cybertron
-Transformers Fall of Cybertron
-Transformers Revenge of the Fallen
-Transformers Rise of the Dark Spark (-log support)
+- Transformers War for Cybertron
+- Transformers Fall of Cybertron
+- Transformers Revenge of the Fallen
+- Transformers Rise of the Dark Spark (-log support)
 
 Future Idea: Console support via DNS change settings?
 
