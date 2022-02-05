@@ -4,11 +4,11 @@
 Join and contact an administrator or myself
 Transformers ReEnergized Server Project: https://discord.gg/maJna7nKR3
 
-Transformers Games are using Peer-to-Peer Connectivity
-Currently own Physical Server and Physical Cisco Switch for Project
-Own web domain, SSL, DNS, etc...
-Demonware uses Stun Servers in order to Authenticate, check, distribute player data such as profile and stats and control matchmaking
-Looking to establish 2 teams: Networking Team, coding team/modding team
+- Transformers Games are using Peer-to-Peer Connectivity
+- Currently own Physical Server and Physical Cisco Switch for Project
+- Own web domain, SSL, DNS, etc...
+- Demonware uses Stun Servers in order to Authenticate, check, distribute player data such as profile and stats and control matchmaking
+- Looking to establish 2 teams: Networking Team, coding team/modding team
 
 Games of interest:
 Transformers War for Cybertron
