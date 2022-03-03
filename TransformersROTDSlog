@@ -1,0 +1,583 @@
+[03/02/22 23:32:51] Log: Log file open, 03/02/22 23:32:51
+[03/02/22 23:32:51] Init: Version: 3428
+[03/02/22 23:32:51] Init: Licensee Version: 181
+[03/02/22 23:32:51] Init: Epic Internal: 0
+[03/02/22 23:32:51] Init: Compiled (32-bit): Jun 13 2014 17:16:47
+[03/02/22 23:32:51] Init: Command line: -Log
+[03/02/22 23:32:51] Init: Base directory: F:\SteamApplication\steamapps\common\Transformers - Rise of the Dark Spark\Binaries\
+[03/02/22 23:32:51] Init: Character set: Unicode
+[03/02/22 23:32:51] Init: Computer name: AURORACROWN
+[03/02/22 23:32:51] Init: User name: AuroraCore
+[03/02/22 23:32:51] DevSHA: FAsyncSHAVerify running for hash [F:\SteamApplication\steamapps\common\Transformers - Rise of the Dark Spark\TransGame\Config\PC\Cooked\Coalesced.ini]
+[03/02/22 23:32:51] Log:  ... running in INSTALLED mode
+[03/02/22 23:32:51] Init: Build: 
+[03/02/22 23:32:51] Init: Changelist: 
+[03/02/22 23:32:51] Init: Build time stamp: 0
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2021.11.01-15.32.37.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2021.11.01-15.34.28.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.19-21.36.49.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.19-22.00.03.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.19-22.17.04.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.21-15.37.54.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.21-23.14.52.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.22-11.40.37.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.22-11.41.26.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.01.26-15.02.32.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.13-21.29.48.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.13-21.33.41.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.14-18.08.03.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.16-20.30.56.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.16-20.31.16.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.16-20.35.13.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.16-20.43.27.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.17-16.41.11.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.19-20.05.06.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.19-20.39.17.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.19-20.40.49.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.20-01.09.03.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.20-01.32.22.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.20-01.35.03.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.21-17.54.38.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.21-17.55.21.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.21-18.35.39.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.26-22.50.40.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.26-22.54.47.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.02.26-23.02.41.log
+[03/02/22 23:32:51] Log: Deleting old log file Launch-backup-2022.03.02-23.32.51.log
+[03/02/22 23:32:51] Init: Startup System Settings:
+[03/02/22 23:32:51] Init: System Settings:
+[03/02/22 23:32:51] Init: 	StaticDecals=true
+[03/02/22 23:32:51] Init: 	DynamicDecals=true
+[03/02/22 23:32:51] Init: 	DynamicLights=true
+[03/02/22 23:32:51] Init: 	DynamicShadows=true
+[03/02/22 23:32:51] Init: 	LightEnvironmentShadows=true
+[03/02/22 23:32:51] Init: 	CompositeDynamicLights=false
+[03/02/22 23:32:51] Init: 	DirectionalLightmaps=true
+[03/02/22 23:32:51] Init: 	MotionBlur=true
+[03/02/22 23:32:51] Init: 	DepthOfField=true
+[03/02/22 23:32:51] Init: 	AmbientOcclusion=true
+[03/02/22 23:32:51] Init: 	AmbientOcclusionHistory=false
+[03/02/22 23:32:51] Init: 	FXAA=false
+[03/02/22 23:32:51] Init: 	Bloom=true
+[03/02/22 23:32:51] Init: 	QualityBloom=true
+[03/02/22 23:32:51] Init: 	Distortion=true
+[03/02/22 23:32:51] Init: 	DropParticleDistortion=false
+[03/02/22 23:32:51] Init: 	SpeedTreeLeaves=true
+[03/02/22 23:32:51] Init: 	SpeedTreeFronds=true
+[03/02/22 23:32:51] Init: 	LensFlares=true
+[03/02/22 23:32:51] Init: 	FogVolumes=true
+[03/02/22 23:32:51] Init: 	CascadedShadows=false
+[03/02/22 23:32:51] Init: 	FloatingPointRenderTargets=true
+[03/02/22 23:32:51] Init: 	Trilinear=true
+[03/02/22 23:32:51] Init: 	OneFrameThreadLag=true
+[03/02/22 23:32:51] Init: 	UseVsync=false
+[03/02/22 23:32:51] Init: 	UpscaleScreenPercentage=true
+[03/02/22 23:32:51] Init: 	Fullscreen=false
+[03/02/22 23:32:51] Init: 	AllowD3D10=true
+[03/02/22 23:32:51] Init: 	EnableHighPolyChars=false
+[03/02/22 23:32:51] Init: 	UseSimpleUpscaling=false
+[03/02/22 23:32:51] Init: 	SkeletalMeshLODBias=0
+[03/02/22 23:32:51] Init: 	ParticleLODBias=0
+[03/02/22 23:32:51] Init: 	DetailMode=2
+[03/02/22 23:32:51] Init: 	ShadowFilterQualityBias=0
+[03/02/22 23:32:51] Init: 	FXAATechnique=1
+[03/02/22 23:32:51] Init: 	MaxAnisotropy=4
+[03/02/22 23:32:51] Init: 	MaxMultisamples=1
+[03/02/22 23:32:51] Init: 	MinShadowResolution=8
+[03/02/22 23:32:51] Init: 	MaxShadowResolution=800
+[03/02/22 23:32:51] Init: 	MaxCascadedShadowResolution=2048
+[03/02/22 23:32:51] Init: 	ResX=1280
+[03/02/22 23:32:51] Init: 	ResY=720
+[03/02/22 23:32:51] Init: 	HighDef3DResX=0
+[03/02/22 23:32:51] Init: 	HighDef3DResY=0
+[03/02/22 23:32:51] Init: 	ScreenPercentageX=100.000
+[03/02/22 23:32:51] Init: 	ScreenPercentageY=100.000
+[03/02/22 23:32:51] Init: 	FXAAScale=9.500
+[03/02/22 23:32:51] Init: 	SceneCaptureStreamingMultiplier=1.000
+[03/02/22 23:32:51] Init: 	FoliageDrawRadiusMultiplier=1.000
+[03/02/22 23:32:51] Init: 	ShadowTexelsPerPixel=1.500
+[03/02/22 23:32:51] Init: 	CSMSplitDepthBiasScale=0.700
+[03/02/22 23:32:51] Init: 	FractureCullDistanceScale=0.000
+[03/02/22 23:32:51] Init: 	UpscaleSharpness=0.500
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_World: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_WorldNormalMap: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_WorldSpecular: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_Character: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_CharacterNormalMap: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_CharacterSpecular: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_Weapon: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_WeaponNormalMap: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_WeaponSpecular: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_Vehicle: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_VehicleNormalMap: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_VehicleSpecular: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_Effects: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_Skybox: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_UI: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_LightAndShadowMap: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_RenderTarget: (MinLODSize=   1,MaxLODSize=4096,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_ProcBuilding_Face: (MinLODSize=   1,MaxLODSize=1024,LODBias=0)
+[03/02/22 23:32:51] Log: 	TEXTUREGROUP_ProcBuilding_LightMap: (MinLODSize=   1,MaxLODSize= 256,LODBias=0)
+[03/02/22 23:32:51] Init: Friendly System Settings:
+[03/02/22 23:32:51] Init: 	TextureDetail=Level5
+[03/02/22 23:32:51] Init: 	WorldDetail=Level5
+[03/02/22 23:32:51] Init: 	bUseVSync=0
+[03/02/22 23:32:51] Init: 	bUseMSAA=0
+[03/02/22 23:32:51] Init: 	ScreenPercentageX=100
+[03/02/22 23:32:51] Init: 	ScreenPercentageY=100
+[03/02/22 23:32:51] Init: 	UpscaleScreenPercentage=1
+[03/02/22 23:32:51] Init: 	ResX=1280
+[03/02/22 23:32:51] Init: 	ResY= 720
+[03/02/22 23:32:51] Init: 	Max3DResX=   0
+[03/02/22 23:32:51] Init: 	Max3DResY=   0
+[03/02/22 23:32:51] Init: 	Fullscreen=0
+[03/02/22 23:32:51] Init: Computer: AURORACROWN
+[03/02/22 23:32:51] Init: User: AuroraCore
+[03/02/22 23:32:51] Init: CPU Page size=4096, Processors=24
+[03/02/22 23:32:51] Init: High frequency timer resolution =14.318180 MHz
+[03/02/22 23:32:51] Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
+[03/02/22 23:32:51] Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[03/02/22 23:32:51] Init: Presizing for 200000 objects not considered by GC, pre-allocating 0 bytes.
+[03/02/22 23:32:51] Init: Object subsystem initialized
+[03/02/22 23:32:51] Log: Force loading D3DCompiler_43.dll to prevent excessive load/unloading at run-time
+[03/02/22 23:32:52] Init: OS stats:
+[03/02/22 23:32:52] Init: 	Windows Vista 
+[03/02/22 23:32:52] Init: 	RemoteDesktop=0
+[03/02/22 23:32:52] Init: Memory stats:
+[03/02/22 23:32:52] Init: 	Physical: 4095MB
+[03/02/22 23:32:52] Init: 	Virtual: 4095MB
+[03/02/22 23:32:52] Init: 	PageFile: 4095MB
+[03/02/22 23:32:52] Init: CPU stats:
+[03/02/22 23:32:52] Init: 	MeasuredPerformanceTime: 1.264 (measured now)
+[03/02/22 23:32:52] Init: 	Hyperthreaded: 1
+[03/02/22 23:32:52] Init: 	NumProcessorsPerCPU: 1
+[03/02/22 23:32:52] Init: 	NumLogicalProcessors: 24
+[03/02/22 23:32:52] Init: 	NumPhysicalProcessors: 20504
+[03/02/22 23:32:52] Init: 	MaxSpeed: 3701
+[03/02/22 23:32:52] Init: 	CurrentSpeed: 3701
+[03/02/22 23:32:52] Init: 	CoresPerProcessor: 20504
+[03/02/22 23:32:52] Init: 	IsOnBattery: 0
+[03/02/22 23:32:52] Init: 	BatteryLevel: -1
+[03/02/22 23:32:52] Init: 	Manufacturer: AMD
+[03/02/22 23:32:52] Init: 	CPUName: Unknown AMD CPU
+[03/02/22 23:32:52] Init: 	L1CacheSize: 32
+[03/02/22 23:32:52] Init: 	L2CacheSize: 512
+[03/02/22 23:32:52] Init: 	Architecture: x86
+[03/02/22 23:32:52] Init: GPU stats:
+[03/02/22 23:32:52] Init: 	VendorID: 000010DE
+[03/02/22 23:32:52] Init: 	DeviceID: 00002204
+[03/02/22 23:32:52] Init: 	DriverVersion: 30.0.14.9709
+[03/02/22 23:32:52] Init: 	DeviceName: NVIDIA GeForce RTX 3090
+[03/02/22 23:32:52] Init: 	DriverName: nvldumd.dll
+[03/02/22 23:32:52] Init: 	PixelShaderVersion: 3
+[03/02/22 23:32:52] Init: 	VertexShaderVersion: 3
+[03/02/22 23:32:52] Init: 	VRAMQuantity: 3072
+[03/02/22 23:32:52] Init: 	DedicatedVRAM: 3072
+[03/02/22 23:32:52] Init: 	AdapterCount: 3
+[03/02/22 23:32:52] Init: 	SupportsHardwareTnL: 1
+[03/02/22 23:32:52] Init: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[03/02/22 23:32:52] Init: Previous detected compatibility level: Composite: 0. CPU: 0. GPU: 0.
+[03/02/22 23:32:52] Init: Writing new compatibility level to ini. Composite: 4. CPU: 5. GPU: 4.
+[03/02/22 23:32:52] Log: Initializing FaceFX...
+[03/02/22 23:32:52] Log: FaceFX initialized:
+[03/02/22 23:32:52] Log:     version  1.731000
+[03/02/22 23:32:52] Log:     licensee Unreal Engine 3 Licensee
+[03/02/22 23:32:52] Log:     project  Unreal Engine 3 Project
+[03/02/22 23:32:52] Init: WinSock: I am AuroraCrown (10.0.0.38:0)
+[03/02/22 23:32:52] DevStreaming: Starting ##### Loading startup packages #####.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package Core.
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecClone' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecConstruct' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecToHex' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecHexToInt' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetGameThrottle' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecCreateGuid' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetAppSeconds' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetFrameCounter' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecSubtract_PlanePlane' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecClockwiseFrom_IntInt' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecPathName' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecEqualEqual_InterfaceInterface' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecNotEqual_InterfaceInterface' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsTemplate' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsCooking' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecColorToHexColor' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecEnableLogInterceptor' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecDisableLogInterceptor' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecLocalize' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetFuncName' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetEnum' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecDynamicLoadObject' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecFindObject' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecLoadPackageObjects' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecSavePackage' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecFullyLoadPackage' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecFindPackage' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecSaveConfig' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecStaticSaveConfig' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecHMSLoadConfig' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetPerObjectConfigSections' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecUpdatePixCounter' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsPendingKill' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsDefaultObject' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetClassDefaultObject' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsInGroup' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetOutermost' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecAllObjects' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetChildClasses' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsCallable' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecSetStatLabel' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecMarkModified' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecMarkAsArchetype' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecCheckForErrorsNative' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecEmitCheckMessage' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecDisassemble' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecMakeWeakReference' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecWeakObjectReferenceToObject' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsUnitTesting' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetAddressOf' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsRunningEditor' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecIsPieObject' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetReferences' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetReferencers' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecGetMatchingObjects' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecToggleParticleThrottling' in 'Core.lib'
+[03/02/22 23:32:52] Warning: Can't find 'intUObjectexecAreToggleParticlesThrottled' in 'Core.lib'
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package Core. Took 0.039346 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package Engine.
+[03/02/22 23:32:52] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:52] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:52] DevStreaming: Loaded shader cache Engine.ShaderCache_366: 2574 shaders(19 legacy, 0 redundant), 1 materials
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package Engine. Took 0.157749 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package IpDrv.
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package IpDrv. Took 0.005136 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package Demonware.
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package Demonware. Took 0.003913 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package OnlineSubsystemDemonware.
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package OnlineSubsystemDemonware. Took 0.006820 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package GFxUI.
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package GFxUI. Took 0.004100 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package HM_Engine.
+[03/02/22 23:32:52] DevStreaming: Loaded shader cache HM_Engine.ShaderCache_4382: 406 shaders(17 legacy, 389 redundant), 1 materials
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package HM_Engine. Took 0.057022 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package TransGame_LOC.
+[03/02/22 23:32:52] DevStreaming: Finished Loading package list package TransGame_LOC. Took 0.003676 seconds.
+[03/02/22 23:32:52] DevStreaming: Starting Loading package list package TransGame.
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_12798: 264 shaders(4 legacy, 30 redundant), 21 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_13410: 237 shaders(8 legacy, 108 redundant), 12 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_13726: 189 shaders(0 legacy, 73 redundant), 16 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_15863: 190 shaders(4 legacy, 70 redundant), 8 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_3025: 173 shaders(0 legacy, 91 redundant), 14 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_3748: 174 shaders(2 legacy, 90 redundant), 11 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_5873: 209 shaders(0 legacy, 102 redundant), 32 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_5902: 214 shaders(4 legacy, 107 redundant), 14 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_6090: 406 shaders(17 legacy, 389 redundant), 1 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_6747: 217 shaders(4 legacy, 100 redundant), 12 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_7532: 159 shaders(0 legacy, 101 redundant), 11 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_7652: 182 shaders(0 legacy, 107 redundant), 13 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_7927: 235 shaders(6 legacy, 120 redundant), 11 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache TransGame.ShaderCache_8243: 177 shaders(0 legacy, 64 redundant), 24 materials
+[03/02/22 23:32:53] DevStreaming: Finished Loading package list package TransGame. Took 0.754825 seconds.
+[03/02/22 23:32:53] DevStreaming: Starting Loading package list package Startup.
+[03/02/22 23:32:53] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:53] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:53] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:53] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:53] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.DefaultTexture couldn't find object in memory!
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache Startup.ShaderCache_1046: 365 shaders(25 legacy, 298 redundant), 2 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache Startup.ShaderCache_10713: 46 shaders(0 legacy, 31 redundant), 2 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache Startup.ShaderCache_14493: 406 shaders(17 legacy, 389 redundant), 1 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache Startup.ShaderCache_2543: 270 shaders(10 legacy, 134 redundant), 25 materials
+[03/02/22 23:32:53] DevStreaming: Finished Loading package list package Startup. Took 0.081293 seconds.
+[03/02/22 23:32:53] DevStreaming: Starting Loading package list package all_shared_LOC.
+[03/02/22 23:32:53] DevStreaming: Finished Loading package list package all_shared_LOC. Took 0.004077 seconds.
+[03/02/22 23:32:53] DevStreaming: Starting Loading package list package all_shared.
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_10295: 180 shaders(0 legacy, 133 redundant), 26 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_11184: 236 shaders(0 legacy, 220 redundant), 36 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_12089: 406 shaders(17 legacy, 389 redundant), 1 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_12936: 246 shaders(6 legacy, 236 redundant), 12 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_12940: 190 shaders(4 legacy, 186 redundant), 8 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_13610: 267 shaders(0 legacy, 131 redundant), 47 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_13894: 190 shaders(4 legacy, 159 redundant), 12 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_16108: 159 shaders(0 legacy, 159 redundant), 11 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_16358: 269 shaders(4 legacy, 260 redundant), 23 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_1714: 173 shaders(0 legacy, 164 redundant), 14 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_1790: 182 shaders(4 legacy, 104 redundant), 7 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_198: 213 shaders(0 legacy, 213 redundant), 16 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_2228: 219 shaders(9 legacy, 137 redundant), 6 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_2345: 174 shaders(2 legacy, 172 redundant), 11 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_2437: 182 shaders(4 legacy, 132 redundant), 5 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_3185: 237 shaders(8 legacy, 229 redundant), 12 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_4045: 186 shaders(0 legacy, 91 redundant), 28 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_4335: 176 shaders(0 legacy, 140 redundant), 6 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_4358: 283 shaders(4 legacy, 242 redundant), 18 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_4832: 217 shaders(4 legacy, 213 redundant), 12 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_6255: 251 shaders(12 legacy, 219 redundant), 14 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_6716: 170 shaders(4 legacy, 114 redundant), 6 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_6968: 183 shaders(0 legacy, 118 redundant), 21 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_782: 120 shaders(0 legacy, 106 redundant), 8 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_811: 184 shaders(0 legacy, 112 redundant), 7 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_8419: 203 shaders(0 legacy, 194 redundant), 20 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_8846: 193 shaders(4 legacy, 153 redundant), 9 materials
+[03/02/22 23:32:53] DevStreaming: Loaded shader cache all_shared.ShaderCache_9724: 213 shaders(4 legacy, 132 redundant), 17 materials
+[03/02/22 23:32:54] DevStreaming: Finished Loading package list package all_shared. Took 0.376975 seconds.
+[03/02/22 23:32:54] DevStreaming: Finished ##### Loading startup packages #####. Took 1.504791 seconds.
+[03/02/22 23:32:54] Log: 74471 objects as part of root set at end of initial load.
+[03/02/22 23:32:54] Log: 0 out of 0 bytes used by permanent object pool.
+[03/02/22 23:32:54] Log: Initializing Engine...
+[03/02/22 23:32:54] Warning: StaticLoadObject for Material HmEngineMaterials HmEngineMaterials.HmDefaultOcclusionMappedMaterial couldn't find object in memory!
+[03/02/22 23:32:54] Log: ERROR: Failed to load special material 'HmEngineMaterials.HmDefaultOcclusionMappedMaterial'. This will probably have bad consequences (depending on its use)
+[03/02/22 23:32:54] Warning: StaticLoadObject for Material HmEngineMaterials HmEngineMaterials.HmDefaultOcclusionMappedDoubleSidedMaterial couldn't find object in memory!
+[03/02/22 23:32:54] Log: ERROR: Failed to load special material 'HmEngineMaterials.HmDefaultOcclusionMappedDoubleSidedMaterial'. This will probably have bad consequences (depending on its use)
+[03/02/22 23:32:54] Warning: StaticLoadObject for Texture2D EngineResources EngineResources.White couldn't find object in memory!
+[03/02/22 23:32:54] Warning: StaticLoadObject for Texture2D EngineMaterials EngineMaterials.WeightMapPlaceholderTexture couldn't find object in memory!
+[03/02/22 23:32:54] Init: UEngine initialized
+[03/02/22 23:32:54] Log: Object size..............: 60
+[03/02/22 23:32:54] Log: Actor size...............: 480
+[03/02/22 23:32:54] Log: ActorComponent size......: 84
+[03/02/22 23:32:54] Log: PrimitiveComponent size..: 512
+[03/02/22 23:33:02] Init: FMOD:  Driver 0 is System (TC-HELICON GoXLR)
+[03/02/22 23:33:02] Init: FmodAudioDevice initialized.
+[03/02/22 23:33:03] Init: Client initialized
+[03/02/22 23:33:03] DevDemonwareLib:  Requested port 7777, using port 7777
+[03/02/22 23:33:03] DevDemonwareLib:  Lookup started for stun.auroracrownserver.net.
+[03/02/22 23:33:03] DevDemonwareLib: WARNING: Starting UPnP without setting a gateway address in the config. Will use first UPnP device found
+[03/02/22 23:33:03] Log: Recreating/resetting D3D device.
+[03/02/22 23:33:05] DevOnline: Created named interface (PlaylistManager) of type (TransGame.TnOnlinePlaylistManager)
+[03/02/22 23:33:05] DevOnline: Created named interface (StatisticsUploader) of type (HM_Engine.HmStatisticsUploader)
+[03/02/22 23:33:05] DevDemonware: Starting DemonWare subsystem
+[03/02/22 23:33:05] DevDemonware: Signing into the local profile AuroraCore for local user num 255
+[03/02/22 23:33:05] PlayerManagement: Creating new player with ControllerId 0
+[03/02/22 23:33:05] PlayerManagement: Successfully created new player with ControllerId 0: TnLocalPlayer_10794
+[03/02/22 23:33:05] Log: Browse: UI_FrontEnd_m?Name=Player?Team=255
+[03/02/22 23:33:05] DevDemonware: AsyncLoadingDwTicker::OnDisable
+[03/02/22 23:33:05] Log: Starting to play full screen movie 'UI_GFxLoading_p.LoadScreen_GFX   //TF_LoadingScreen' on rendering thread.
+[03/02/22 23:33:06] Log: Enabling loading movie 'UI_GFxLoading_p.LoadScreen_GFX   //TF_LoadingScreen'.
+[03/02/22 23:33:06] Log: Starting ######### loading map 'UI_FrontEnd_m' #########.
+[03/02/22 23:33:06] Log: URL: UI_FrontEnd_m?Name=Player?Team=255
+[03/02/22 23:33:06] DevStreaming: Loading package 'UI_FrontEnd_m_LOC' asynchronously, package type = 0x1
+[03/02/22 23:33:06] DevStreaming: Loading package 'UI_FrontEnd_m' asynchronously, package type = 0x1
+[03/02/22 23:33:06] DevStreaming: Starting AsyncPackageLoader::Flush for package types 0x1.
+[03/02/22 23:33:06] DevStreaming: Starting AsyncPackageLoader::FlushInternal.
+[03/02/22 23:33:06] DevDemonwareLib:  Adding IP 173.33.191.124:3074 for Host: stun.auroracrownserver.net 
+[03/02/22 23:33:06] DevDemonwareLib:  Lookup started for stun.eu.demonware.net.
+[03/02/22 23:33:06] DevStreaming: Level loader finished loading localized level package 'UI_FrontEnd_m_LOC'.
+[03/02/22 23:33:06] DevStreaming: Finished loading package 'UI_FrontEnd_m_LOC' asynchronously, package type = 1
+[03/02/22 23:33:06] Error: Error, Failed to load Outer for resource 'ReturnValue': Function GFxUI.GFxMoviePlayer:Invoke
+[03/02/22 23:33:06] Error: Error, Failed to load Outer for resource 'ReturnValue': Function GFxUI.GFxMoviePlayer:Invoke
+[03/02/22 23:33:06] Error: Error, Failed to load Outer for resource 'ReturnValue': Function GFxUI.GFxMoviePlayer:Invoke
+[03/02/22 23:33:06] Error: Error, Failed to load Outer for resource 'ReturnValue': Function GFxUI.GFxMoviePlayer:Invoke
+[03/02/22 23:33:06] DevDemonwareLib:  Discovered Device at address 10.0.0.1:49154
+[03/02/22 23:33:06] DevDemonwareLib:  UPnP capable device discovered and no gateway set - using it. Finished Discovery.
+[03/02/22 23:33:06] DevDemonwareLib:  Adding IP 185.34.107.128:3074 for Host: stun.eu.demonware.net 
+[03/02/22 23:33:06] DevDemonwareLib:  Lookup started for stun.jp.demonware.net.
+[03/02/22 23:33:07] DevDemonwareLib:  Duplicate IP 185.34.107.128:3074 for Host: stun.jp.demonware.net ignored
+[03/02/22 23:33:07] DevDemonwareLib:  Lookup started for stun.au.demonware.net.
+[03/02/22 23:33:07] DevDemonwareLib:  Duplicate IP 185.34.107.128:3074 for Host: stun.au.demonware.net ignored
+[03/02/22 23:33:09] DevDemonwareLib:  Successfully received the device description
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_10421: 222 shaders(6 legacy, 216 redundant), 9 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_11006: 221 shaders(10 legacy, 211 redundant), 8 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_11212: 146 shaders(0 legacy, 146 redundant), 10 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_11384: 213 shaders(0 legacy, 213 redundant), 35 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_11796: 208 shaders(4 legacy, 204 redundant), 12 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_11833: 157 shaders(0 legacy, 157 redundant), 12 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_11866: 188 shaders(0 legacy, 188 redundant), 13 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_12643: 195 shaders(4 legacy, 191 redundant), 8 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_13169: 158 shaders(0 legacy, 158 redundant), 13 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_14637: 197 shaders(4 legacy, 193 redundant), 8 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_14976: 186 shaders(0 legacy, 186 redundant), 23 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_15013: 186 shaders(2 legacy, 184 redundant), 13 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_16128: 63 shaders(0 legacy, 57 redundant), 3 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_206: 194 shaders(0 legacy, 194 redundant), 9 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_2291: 205 shaders(0 legacy, 205 redundant), 20 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_2786: 182 shaders(4 legacy, 178 redundant), 6 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_3005: 261 shaders(0 legacy, 261 redundant), 30 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_3553: 250 shaders(4 legacy, 246 redundant), 27 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_6021: 237 shaders(8 legacy, 229 redundant), 12 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_7529: 187 shaders(0 legacy, 187 redundant), 22 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_9135: 235 shaders(6 legacy, 229 redundant), 11 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_9200: 214 shaders(0 legacy, 214 redundant), 24 materials
+[03/02/22 23:33:10] DevStreaming: Loaded shader cache UI_FrontEnd_m.ShaderCache_93: 406 shaders(17 legacy, 389 redundant), 1 materials
+[03/02/22 23:33:10] DevDemonwareLib:  External address on device determined to be: 173.33.191.124
+[03/02/22 23:33:11] DevDemonwareLib:  Querying UPnP device for existing mappings on port 7777.
+[03/02/22 23:33:11] DevStreaming: Level loader finished loading level package 'UI_FrontEnd_m'.
+[03/02/22 23:33:11] DevStreaming: Finished loading package 'UI_FrontEnd_m' asynchronously, package type = 1
+[03/02/22 23:33:11] DevStreaming: Finished AsyncPackageLoader::FlushInternal. Took 5.304809 seconds.
+[03/02/22 23:33:11] DevStreaming: Finished AsyncPackageLoader::Flush for package types 0x1. Took 5.304822 seconds.
+[03/02/22 23:33:11] DevDemonware: AsyncLoadingDwTicker::OnEnable
+[03/02/22 23:33:11] None: Clearing active checkpoint
+[03/02/22 23:33:11] DevStreaming: Activating initial streaming state for map 'UI_FrontEnd_m'.
+[03/02/22 23:33:11] DevStreaming: Activating LevelStreamingState 'Start'
+[03/02/22 23:33:11] Log: Starting creating world for map 'UI_FrontEnd_m'.
+[03/02/22 23:33:11] Log: Game class is 'TnFrontEndGame'
+[03/02/22 23:33:11] Log: Bringing World UI_FrontEnd_m.TheWorld up for play (60) at 2022.03.02-23.33.11
+[03/02/22 23:33:11] DevTeams: Creating teams | TnTeamHandlerOneTeam
+[03/02/22 23:33:11] None: --Applying collision patches for: UI_FrontEnd_m--
+[03/02/22 23:33:11] None: --Applying variable patches for: UI_FrontEnd_m--
+[03/02/22 23:33:11] Log: Bringing up level for play took: 0.018209
+[03/02/22 23:33:11] Log: Finished creating world for map 'UI_FrontEnd_m'. Took 0.029169 seconds.
+[03/02/22 23:33:11] DevStreaming: Begin FlushLoadLevels
+[03/02/22 23:33:11] DevStreaming: Finish FlushLoadLevels
+[03/02/22 23:33:11] DevDemonware: Starting async task (Profile Read)
+[03/02/22 23:33:11] Log: TnPlayerControllerFrontEnd_10593 got player TnLocalPlayer_10794
+[03/02/22 23:33:11] DevGFxUI: Scale9Grid for resource=1103 has negative height -52.450000
+[03/02/22 23:33:11] DevDemonware: StartNetworkedVoice(), Invalid LocalUserNum(0)
+[03/02/22 23:33:11] Log: StatisticsSessionId: 11016828240677213116
+[03/02/22 23:33:11] DevOnline: Attemping to auto log in as 
+[03/02/22 23:33:11] DevDemonware: Using LIVE environment
+[03/02/22 23:33:11] DevDemonware: Starting async task (DNS Check for DemonWare hosts)
+[03/02/22 23:33:11] DevNet: Default  (TnPlayerControllerFrontEnd_10593) using short network timeout
+[03/02/22 23:33:11] DevOnline: Created coded Presence String: 1 1,0 2,0
+[03/02/22 23:33:11] DevDemonware: Setting rich presence string to "1 1,0 2,0"
+[03/02/22 23:33:11] DevDemonware: Setting rich presence session id to 0000000000000000
+[03/02/22 23:33:11] DevDemonwareLib: WARNING: Not connected.
+[03/02/22 23:33:11] DevStreaming: Starting texture streaming flush.
+[03/02/22 23:33:11] DevStreaming: Texture streaming stabilized after 1 update loops.
+[03/02/22 23:33:11] DevStreaming: Finished texture streaming flush. Took 0.072091 seconds.
+[03/02/22 23:33:11] Log: Finished ######### loading map 'UI_FrontEnd_m' #########. Took 5.521872 seconds.
+[03/02/22 23:33:11] Log: HMSLoadMapsEnds
+[03/02/22 23:33:11] Init: Game engine initialized
+[03/02/22 23:33:11] Log: Initializing Engine Completed
+[03/02/22 23:33:11] Log: >>>>>>>>>>>>>> Initial startup: 20.70s <<<<<<<<<<<<<<<
+[03/02/22 23:33:11] Log: Initiating to play full screen movie 'TF_InitialStartup' on game thread.
+[03/02/22 23:33:11] Log: Stopped playing full screen movie.
+[03/02/22 23:33:11] Log: Starting to play full screen movie 'TF_InitialStartup' on rendering thread.
+[03/02/22 23:33:11] DevDemonwareLib:  Lookup started for stun.auroracrownserver.net.
+[03/02/22 23:33:11] DevDemonwareLib:  Lookup started for trans2014-pc-lobby.prod.demonware.net.
+[03/02/22 23:33:11] Log: Decrementing loading movie ref count to 0.
+[03/02/22 23:33:11] Log: Disabling loading movie.
+[03/02/22 23:33:11] None: Profile Read Complete: Player 0
+[03/02/22 23:33:11] None: Updating Local Cache of Profile Settings for UI PlayerIndex 0
+[03/02/22 23:33:11] Log: Changing subtitle setting, new value: 0
+[03/02/22 23:33:11] None: Mouse= 30.000000
+[03/02/22 23:33:11] None: CCC PRI.bControllerVibrationAllowed= TRUE
+[03/02/22 23:33:11] None: YYY PS sets settings
+[03/02/22 23:33:11] None: XXX (check) GetResData[ 18 ] 2560 1080 FALSE
+[03/02/22 23:33:11] None: YYY Check  2560 1080  v  2560 1080
+[03/02/22 23:33:11] DevStreaming: Starting texture streaming flush.
+[03/02/22 23:33:11] DevStreaming: Texture streaming stabilized after 1 update loops.
+[03/02/22 23:33:11] DevStreaming: Finished texture streaming flush. Took 0.056914 seconds.
+[03/02/22 23:33:11] DevDemonwareLib:  No port mappings found. Creating one on port 7777.
+[03/02/22 23:33:11] DevDemonware: Creating DemonWare authentication service for title 0x153d with Auth host IP address 173.33.191.124:3478
+[03/02/22 23:33:11] DevDemonware: Starting async task (SteamAuthenticate)
+[03/02/22 23:33:11] DevDemonwareLib:  Port successfully mapped. UPnP device configuration complete
+[03/02/22 23:33:11] DevDemonwareLib:  NAT discovery client initialized
+[03/02/22 23:33:11] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:11] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:12] DevDemonware: Got FriendPersonaStateChange for non-friend 01100001085039d2
+[03/02/22 23:33:12] DevDemonwareLib: WARNING: IP Discovery failed. Retrying. (1/5)
+[03/02/22 23:33:12] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:12] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:12] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:12] DevDemonwareLib: WARNING: IP Discovery failed. Retrying. (2/5)
+[03/02/22 23:33:12] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:12] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:12] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:13] DevDemonwareLib: WARNING: IP Discovery failed. Retrying. (3/5)
+[03/02/22 23:33:13] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:13] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:13] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:13] DevDemonwareLib: WARNING: IP Discovery failed. Retrying. (4/5)
+[03/02/22 23:33:13] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:13] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:14] DevDemonwareLib: WARNING: IP Discovery failed. Retrying. (5/5)
+[03/02/22 23:33:14] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:14] DevDemonwareLib: ERROR: IP Discovery failed with 5 retries, giving up. 
+[03/02/22 23:33:14] DevDemonwareLib:  Test 1 failed. Not online.
+[03/02/22 23:33:14] DevDemonwareLib:  Trying next IP address for IP and NAT discovery.
+[03/02/22 23:33:14] DevDemonwareLib:  NAT discovery client quit
+[03/02/22 23:33:14] DevDemonwareLib:  NAT discovery client initialized
+[03/02/22 23:33:14] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:15] DevDemonwareLib:  Public IP discovered: 173.33.191.124:7777
+[03/02/22 23:33:15] DevDemonwareLib:  Sent packet for NTDC test 1
+[03/02/22 23:33:15] DevDemonwareLib:  Reply for test 1. Start test 2.
+[03/02/22 23:33:15] DevDemonwareLib:  Sent packet for NTDC test 2
+[03/02/22 23:33:15] DevDemonwareLib:  Sent packet for NTDC test 2
+[03/02/22 23:33:16] DevDemonwareLib:  Sent packet for NTDC test 2
+[03/02/22 23:33:16] Log: Stopped playing full screen movie.
+[03/02/22 23:33:16] Kismet:  I'm a log to make sure logs work
+[03/02/22 23:33:16] Log: Error: Accessed None dereferencing object of type Console
+[03/02/22 23:33:16] None: Message: I'm a log to make sure logs work
+[03/02/22 23:33:16] Log: Initiating to play full screen movie 'Logo_Activision' on game thread.
+[03/02/22 23:33:16] Log: Starting to play full screen movie 'Logo_Activision' on rendering thread.
+[03/02/22 23:33:16] DevDemonwareLib:  Sent packet for NTDC test 2
+[03/02/22 23:33:17] DevDemonwareLib:  Sent packet for NTDC test 2
+[03/02/22 23:33:18] DevDemonwareLib:  Sent packet for NTDC test 2
+[03/02/22 23:33:18] DevDemonwareLib:  Test 2 failed.
+[03/02/22 23:33:18] DevDemonwareLib:  Sent packet for NTDC test 3
+[03/02/22 23:33:18] DevDemonwareLib:  Reply for test 3. Moderate NAT.
+[03/02/22 23:33:18] DevDemonwareLib:  UPnP mapping confirmed.
+[03/02/22 23:33:18] DevDemonwareLib:  NAT discovery client quit
+[03/02/22 23:33:27] Log: Stopped playing full screen movie.
+[03/02/22 23:33:27] Log: Initiating to play full screen movie 'EOR_TF_Logo' on game thread.
+[03/02/22 23:33:27] Log: Starting to play full screen movie 'EOR_TF_Logo' on rendering thread.
+[03/02/22 23:33:33] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:33] DevDemonwareLib:  Connection reset packet received for 173.33.191.124:3074. Ignoring.
+[03/02/22 23:33:37] Log: Stopped playing full screen movie.
+[03/02/22 23:33:37] Log: Initiating to play full screen movie 'Logo_Hasbro' on game thread.
+[03/02/22 23:33:37] Log: Starting to play full screen movie 'Logo_Hasbro' on rendering thread.
+[03/02/22 23:33:41] Log: Stopped playing full screen movie.
+[03/02/22 23:33:41] DevActionScript: Trace: _root.inputHandler = new InputHandler();
+[03/02/22 23:33:41] DevActionScript: Trace: _root.inputHandler = new InputHandler();
+[03/02/22 23:33:41] Kismet:  A log to see if Out gets fired shortly after Play
+[03/02/22 23:33:41] Log: Error: Accessed None dereferencing object of type Console
+[03/02/22 23:33:41] None: Message: A log to see if Out gets fired shortly after Play
+[03/02/22 23:33:48] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:33:48] DevDemonwareLib:  Connection reset packet received for 173.33.191.124:3074. Ignoring.
+[03/02/22 23:34:03] DevDemonware:   Reading unsorted friend Persona Names.
+
+[Deleted Friend List status from log due to privacy]
+
+[03/02/22 23:34:03] DevOnline: Created coded Presence String: 0
+[03/02/22 23:34:03] DevDemonware: 01100001184230db ("devthegunner") is now offline
+[team member above as an example of friends list]
+
+[03/02/22 23:34:03] DevOnline: Created coded Presence String: 1 1,0 2,0
+[03/02/22 23:34:03] DevDemonware: Setting rich presence string to "1 1,0 2,0"
+[03/02/22 23:34:03] DevDemonware: Setting rich presence session id to 0000000000000000
+[03/02/22 23:34:03] DevDemonwareLib: WARNING: Not connected.
+[03/02/22 23:34:03] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:34:03] DevDemonwareLib:  Connection reset packet received for 173.33.191.124:3074. Ignoring.
+[03/02/22 23:34:12] DevDemonwareLib:  Received 'connection reset'. Closing connection.
+[03/02/22 23:34:12] DevDemonwareLib:  Received onDisconnect callback  for connection
+[03/02/22 23:34:12] DevDemonware: Authentication failed.
+[03/02/22 23:34:12] DevDemonware: Will reconnect in 1.500000
+[03/02/22 23:34:13] DevDemonware: Starting authentication...
+[03/02/22 23:34:13] DevDemonware: Starting async task (SteamAuthenticate)
+[03/02/22 23:34:18] DevDemonwareLib:  recv: Received connection reset : 10054
+[03/02/22 23:34:18] DevDemonwareLib:  Connection reset packet received for 10.0.0.187:3074. Ignoring.
+[03/02/22 23:34:18] DevActionScript: Trace: _root.inputHandler = new InputHandler();
+[03/02/22 23:34:20] Log: Closing by request
+[03/02/22 23:34:20] Log: appRequestExit(0)
+[03/02/22 23:34:20] Log: ******* FEngineLoop::Exit() - START
+[03/02/22 23:34:20] Log: ******* FEngineLoop::Exit() - GTextureStreamingManager->BlockTillAllRequestsFinished()
+[03/02/22 23:34:20] Log: ******* FEngineLoop::Exit() - GEngine->PreExit()
+[03/02/22 23:34:20] DevStreaming: Begin FlushLevelStreaming
+[03/02/22 23:34:20] DevStreaming: Begin FlushRemoveLevels
+[03/02/22 23:34:20] DevStreaming: Finish FlushRemoveLevels
+[03/02/22 23:34:20] DevStreaming: Begin FlushLoadLevels
+[03/02/22 23:34:20] DevStreaming: Finish FlushLoadLevels
+[03/02/22 23:34:20] DevStreaming: Finish FlushLevelStreaming
+[03/02/22 23:34:20] Log: ******* FEngineLoop::Exit() - appPreExit()
+[03/02/22 23:34:20] Exit: Preparing to exit.
+[03/02/22 23:34:20] Exit: Game engine shut down
+[03/02/22 23:34:23] Exit: FMOD Audio Device shut down.
+[03/02/22 23:34:23] Exit: Windows client shut down
+[03/02/22 23:34:23] Exit: Object subsystem successfully closed.
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - DestroyGameRBPhys()
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - UnShutdownFaceFX()
+[03/02/22 23:34:23] Log: Shutting down FaceFX...
+[03/02/22 23:34:23] Log: FaceFX shutdown.
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - StopRenderingThread()
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - AsyncIOThread->Kill()
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - delete GThreadPool
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - delete GIOManager
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - appSocketExit()
+[03/02/22 23:34:23] DevDemonwareLib:  Port unmapping successful on port 7777
+[03/02/22 23:34:23] DevDemonware: Shut down via the socket subsystem
+[03/02/22 23:34:23] Log: ******* FEngineLoop::Exit() - END
+[03/02/22 23:34:23] Exit: Exiting.
+[03/02/22 23:34:24] Warning: Warning, Tried to flush the config cache and read it back in, but File Operations are disabled!!
+[03/02/22 23:34:24] Warning: Warning, Tried to flush the config cache and read it back in, but File Operations are disabled!!
+[03/02/22 23:34:24] Exit: Name subsystem shutting down
+[03/02/22 23:34:24] Uninitialized: Log file closed, 03/02/22 23:34:24
