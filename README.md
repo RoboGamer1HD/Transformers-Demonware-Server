@@ -21,4 +21,4 @@ Notes:
 - Currently own Physical Server.
 - Own domain, SSL, DNS, etc...
 - Demonware uses Stun Servers in order to Authenticate, check, distribute player data such as profile and stats and control matchmaking
-- Looking to establish 2 teams: Networking Team, coding team/modding team
+- Looking to establish 2 teams: Networking Team, coding team/development team/modding team
