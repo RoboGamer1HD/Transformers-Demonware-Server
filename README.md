@@ -2,3 +2,4 @@ Transformers ReEnergized Server Project.  Server Revival for Transformers video 
 Recruiting Team Members.  Join our Discord
 -Transformers ReEnergized Server Project: https://discord.gg/maJna7nKR3
 
+Game Focus: Transformers: War for Cybertron | Transformers: Fall of Cybertron
