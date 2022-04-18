@@ -1,0 +1,2 @@
+add_subdirectory(demonware)
+add_subdirectory(steamworks_sdk)

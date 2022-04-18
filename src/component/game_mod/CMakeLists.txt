@@ -1,0 +1,5 @@
+add_subdirectory("Transformers - Dark of the Moon")
+add_subdirectory("Transformers - Fall of Cybertron")
+add_subdirectory("Transformers - Revenge of the Fallen")
+add_subdirectory("Transformers - Rise of the Dark Spark")
+add_subdirectory("Transformers - War for Cybertron")
